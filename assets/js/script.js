@@ -1,5 +1,5 @@
 // JS by Dan Høegh
-// UCN MMD 2018
+// UCN MMD 2019
 
 
 document.getElementById('btnAlert').addEventListener('click', function() {
